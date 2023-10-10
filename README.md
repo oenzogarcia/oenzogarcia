@@ -21,6 +21,8 @@ Sou fluente em inglês, tenho um raciocínio lógico bem desenvolvido e bom humo
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=oenzogarcia&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
