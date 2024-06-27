@@ -1,10 +1,10 @@
 # Olá Pessoal! :vulcan_salute:
 
-Sou capixaba degustador de moqueca, flamenguista, amante de animes, fã de Suits, Peaky Blinders e Mad Men.
+Capixaba degustador de moqueca, flamenguista, amante de animes, fã de Mad Men e de praticamente todo filme/série que me faça refletir sobre a vida hehe.
 
-Atualmente me encontro em transição de carreira, entrando no mundo da tecnologia como desenvolvedor de software back-end. Meu objetivo é, no futuro, contribuir para a construção de um mundo virtual full-dive, isso é um sonho de infância!
+Trabalho como desenvolvedor de software e já implementei complexos sistemas como ERPs e CRMs, utilizando ferramentas low-code como Zoho Creator (Deluge) e Mad Builder (PHP), além de código puro com Node.js
 
-Estudo na Cubos Academy e, no curso, estou aprendendo sobre JavaScript, por meio do Node.js; TypeScript; Express.js; SQL; desenvolvimento de API; entre outros.
+Em todos os projetos em trabalhei, pude participar ativamente na modelagem dos bancos de dados, o que me proporcionou um bom domínio de SQL!
 
 Sou fluente em inglês, tenho um raciocínio lógico bem desenvolvido e bom humor (muito importante). 
 
