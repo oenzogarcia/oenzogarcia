@@ -1,12 +1,15 @@
 # Olá Pessoal! :vulcan_salute:
 
-Capixaba degustador de moqueca, flamenguista, amante de animes, fã de Mad Men e de praticamente todo filme/série que me faça refletir sobre a vida hehe.
+Capixaba apreciador de moqueca, flamenguista, amante de animes, fã de Mad Men e de praticamente todo filme ou série que me faça refletir sobre a vida hehe.
 
-Trabalho como desenvolvedor de software e já implementei complexos sistemas como ERPs e CRMs, utilizando ferramentas low-code como Zoho Creator (Deluge) e Mad Builder (PHP), além de código puro com Node.js
+Atualmente, trabalho com soluções da Zoho, especialmente Zoho CRM, desenvolvendo automações e integrações para otimizar processos empresariais. Minhas principais atividades incluem:
 
-Em todos os projetos em trabalhei, pude participar ativamente na modelagem dos bancos de dados, o que me proporcionou um bom domínio de SQL!
+- Desenvolvimento de scripts em Deluge e Client Script (JavaScript) para workflows, regras de validação e personalização de campos.
+- Criação de relatórios e dashboards no Zoho Analytics, transformando dados do CRM e outras fontes em insights estratégicos.
+- Implementação e gerenciamento de integrações entre sistemas usando Zoho Flow, sem necessidade de código manual.
+- Além disso, tenho experiência na implementação de ERPs e CRMs com ferramentas low-code, como Zoho Creator e Mad Builder (PHP), bem como desenvolvimento com Node.js. Minha vivência na modelagem de bancos de dados me proporcionou um bom domínio de SQL.
 
-Sou fluente em inglês, tenho um raciocínio lógico bem desenvolvido e bom humor (muito importante). 
+Sou fluente em inglês, tenho um raciocínio lógico bem desenvolvido e, claro, bom humor (essencial no dia a dia).
 
 ## :point_right: Para me encontrar:
 
